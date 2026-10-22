@@ -34,5 +34,4 @@ To recognize sign language gestures using a webcam and convert the recognized ge
 ## Author
 C Fairlin Gold Teena
 
-## Author
-Fairlin Gold Teena
+
