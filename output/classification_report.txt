@@ -1,0 +1,39 @@
+SIGN LANGUAGE RECOGNITION SYSTEM
+CLASSIFICATION REPORT
+============================================================
+
+Total Samples : 4000
+Correct       : 3935
+Wrong         : 65
+Accuracy      : 98.38%
+Precision     : 98.38%
+Recall        : 98.38%
+F1 Score      : 98.37%
+
+
+              precision    recall  f1-score   support
+
+      DOCTOR       1.00      1.00      1.00       200
+   EMERGENCY       1.00      1.00      1.00       200
+      FAMILY       1.00      1.00      1.00       200
+        FOOD       0.96      0.95      0.96       200
+      FRIEND       1.00      0.99      1.00       200
+        GOOD       0.95      0.97      0.96       200
+       HELLO       0.99      0.98      0.99       200
+        HELP       0.99      1.00      1.00       200
+        LOVE       0.99      1.00      1.00       200
+       MONEY       0.99      0.98      0.99       200
+          NO       0.98      0.98      0.98       200
+       PHONE       0.98      0.97      0.97       200
+      PLEASE       0.95      0.94      0.94       200
+       SORRY       0.98      0.94      0.96       200
+   THANK YOU       0.98      0.99      0.99       200
+        TIME       0.98      1.00      0.99       200
+       WATER       0.99      0.99      0.99       200
+     WELCOME       1.00      1.00      1.00       200
+         YES       0.96      0.98      0.97       200
+         YOU       0.98      0.98      0.98       200
+
+    accuracy                           0.98      4000
+   macro avg       0.98      0.98      0.98      4000
+weighted avg       0.98      0.98      0.98      4000

@@ -1,0 +1,4 @@
+Algorithm,Accuracy (%),Precision (%),Recall (%),F1-Score (%)
+SVM,96.5,96.77,96.5,96.43
+KNN,86.0,89.17,86.0,84.76
+Random Forest,36.5,27.97,36.5,28.75

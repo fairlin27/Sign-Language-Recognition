@@ -1,0 +1,5 @@
+Gesture,Total Tests,Correct,Wrong,Accuracy (%),Average Confidence (%),Most Predicted
+DOCTOR,10,10,0,100.0,90.6946490617528,DOCTOR
+EMERGENCY,10,10,0,100.0,96.74001787959094,EMERGENCY
+
+OVERALL,20,20,0,100.0

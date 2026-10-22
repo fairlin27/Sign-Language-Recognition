@@ -1,0 +1,121 @@
+
+============================================================
+FINAL RESULTS AND DISCUSSION
+SIGN LANGUAGE GESTURE RECOGNITION PROJECT
+============================================================
+
+1. EXPERIMENTAL OVERVIEW
+------------------------------------------------------------
+
+The real-time sign language recognition system was evaluated
+using 20 predefined sign language gestures.
+
+Three machine learning classification algorithms were
+compared:
+
+1. Support Vector Machine (SVM)
+2. K-Nearest Neighbors (KNN)
+3. Random Forest
+
+A total of 600 real-time test samples were evaluated.
+
+Number of Gestures   : 20
+Number of Algorithms : 3
+Total Test Samples   : 600
+
+
+2. ALGORITHM PERFORMANCE
+------------------------------------------------------------
+
+Algorithm              Accuracy    Precision    Recall    F1-Score
+--------------------------------------------------------------------
+SVM                     96.50%       96.77%       96.50%      96.43%
+
+KNN                     86.00%       89.17%       86.00%      84.76%
+
+Random Forest            36.50%       27.97%       36.50%      28.75%
+
+
+3. BEST PERFORMING ALGORITHM
+------------------------------------------------------------
+
+The Support Vector Machine (SVM) achieved the highest overall
+performance among the three evaluated algorithms.
+
+Best Algorithm : SVM
+
+Accuracy       : 96.50%
+Precision      : 96.77%
+Recall         : 96.50%
+F1-Score       : 96.43%
+
+
+4. RESULTS DISCUSSION
+------------------------------------------------------------
+
+The experimental results show that SVM provides the best
+performance for the real-time sign language gesture
+recognition task.
+
+SVM achieved an overall accuracy of 96.50%,
+which is significantly higher than KNN and Random Forest.
+
+KNN achieved an accuracy of
+86.00%.
+Although KNN provided reasonably good recognition performance,
+its accuracy was lower than SVM.
+
+Random Forest achieved an accuracy of
+36.50%,
+which was considerably lower than the other two algorithms
+for this real-time test dataset.
+
+The confusion matrix analysis also indicates that SVM produced
+mostly correct predictions across the 20 gesture classes, with
+only a small number of misclassifications.
+
+Therefore, SVM was selected as the final algorithm for the
+real-time sign language recognition system.
+
+
+5. REAL-TIME TEST VERIFICATION
+------------------------------------------------------------
+
+Total Real-Time Tests : 600
+Total Gestures        : 20
+Total Algorithms      : 3
+
+Each algorithm was evaluated using 200 test samples.
+
+SVM             : 200 tests
+KNN             : 200 tests
+Random Forest   : 200 tests
+
+Total            : 600 tests
+
+
+6. FINAL CONCLUSION
+------------------------------------------------------------
+
+Based on the experimental evaluation, Support Vector Machine
+(SVM) is the best-performing classification algorithm among
+the three algorithms tested.
+
+The final SVM model achieved:
+
+Accuracy  : 96.50%
+Precision : 96.77%
+Recall    : 96.50%
+F1-Score  : 96.43%
+
+The results demonstrate that the proposed system can recognize
+the selected sign language gestures in real time with high
+classification accuracy.
+
+SVM is therefore selected as the final classification algorithm
+for the proposed sign language recognition system.
+
+
+============================================================
+STEP 8 COMPLETED SUCCESSFULLY
+============================================================
